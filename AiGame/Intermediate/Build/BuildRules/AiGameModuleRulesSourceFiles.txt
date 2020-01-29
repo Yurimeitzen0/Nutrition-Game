@@ -1,0 +1,3 @@
+C:\Yuri\Unreal\BagProject\AiGame\Source\AiGame\AiGame.Build.cs
+C:\Yuri\Unreal\BagProject\AiGame\Source\AiGame.Target.cs
+C:\Yuri\Unreal\BagProject\AiGame\Source\AiGameEditor.Target.cs

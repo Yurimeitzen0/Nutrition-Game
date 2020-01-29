@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Assets/*
+AiGame/Content/Blueprints/Assets
+
+AiGame/Saved/Autosaves/Game/ExternalContent
