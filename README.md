@@ -8,14 +8,14 @@ LMB on a character to show it's stats;
 ASWD = move;
 Hold RMB to change your camera position;
 Q = place a water at your mouse location;
-E = place red meat or fish -------------;
-F = place a sunlight -------------------;
-1 = place a fruit ----------------------;
-2 = place a bread or potato ------------;
-3 = place dairy products like milk and cheese ----;
-4 = place eggs -------------------------;
-5 = place a donut-----------------------;
-6 = place a plate of rice and beans-----;
+E = place red meat or fish;
+F = place a sunlight;
+1 = place a fruit;
+2 = place a bread or potato;
+3 = place dairy products like milk and cheese;
+4 = place eggs;
+5 = place a donut;
+6 = place a plate of rice and beans;
 
 
 
